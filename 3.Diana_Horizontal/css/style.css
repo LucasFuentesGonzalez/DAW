@@ -1,0 +1,21 @@
+input[name=diana]{
+    width: 50%;
+    margin: 0 25%;
+}
+
+.rojo{
+    color:red;
+}
+
+.naranja{
+    color:orange;
+}
+
+.verde{
+    color:green;
+}
+
+div{
+    text-align: center;
+    margin: 24px 0;
+}
